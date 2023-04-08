@@ -1,3 +1,9 @@
+<p align="center"><img width="100%" src="ML/others/logo/torch_and_tf.svg" /></p>
+
+--------------------------------------------------------------------------------
+
+ [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 # PyTorch-Models
 A collection of machine learning models implemented from various sources (primarily arXiv papers).
 
