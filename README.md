@@ -8,7 +8,7 @@ A collection of machine learning models implemented from various sources (primar
 
 ## Introduction
 
-"Welcome to **PyTorch-Models**, a Python library with a collection of machine learning models I implemented for as my personal data science and machine learning toolbox.
+Welcome to **PyTorch-Models**, a Python library with a collection of machine learning models I implemented for as my personal data science and machine learning toolbox.
 It stands on the work of many others. I strive after acknowledging all source materials via proper citation (link to github, arXiv, etc).
 
 ## Models
