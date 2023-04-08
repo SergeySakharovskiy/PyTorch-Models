@@ -10,6 +10,7 @@ A collection of machine learning models implemented from various sources (primar
 # PyTorch Image Models
 - [Introduction](#introduction)
 - [Models](#models)
+- [Training framework](#framework)
 - [License](#license)
 
 ## Introduction
@@ -18,6 +19,10 @@ Welcome to **PyTorch-Models**, a Python library with a collection of machine lea
 It stands on the work of many others. I strive after acknowledging all source materials via proper citation (link to github, arXiv, etc).
 
 ## Models
+
+## Training framework
+
+Along with regular training, validation and inference schema, [PyTorch Lightning](https://lightning.ai) is to be used as well.
 
 ## Lecense
 
