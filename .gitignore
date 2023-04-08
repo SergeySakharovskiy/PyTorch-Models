@@ -74,8 +74,12 @@ docs/_build/
 # PyBuilder
 target/
 
+# PyCharm
+.idea
+
 # Jupyter Notebook
 .ipynb_checkpoints
+*Untitled.ipynb
 
 # IPython
 profile_default/
@@ -114,16 +118,16 @@ venv.bak/
 .spyderproject
 .spyproject
 
-# Rope project settings
-.ropeproject
+# Root dir exclusions
+*.csv
+*.yaml
+*.json
+*.jpg
+*.png
+*.zip
+*.tar.*
+*.gif
+*.xslx
 
-# mkdocs documentation
-/site
-
-# mypy
-.mypy_cache/
-.dmypy.json
-dmypy.json
-
-# Pyre type checker
-.pyre/
+*/data/
+*/docs/
