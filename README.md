@@ -5,7 +5,6 @@ A collection of machine learning models implemented from various sources (primar
 - [Introduction](#introduction)
 - [Models](#models)
 - [License](#license)
-- [Citing](#citing)
 
 ## Introduction
 
@@ -16,4 +15,4 @@ It stands on the work of many others. I strive after acknowledging all source ma
 
 ## Lecense
 
-The MIT License (MIT). Please see the license file for more information.
+The MIT License (MIT). Please see the [license file](https://github.com/SergeySakharovskiy/PyTorch-Models/blob/main/LICENSE) for more information.
