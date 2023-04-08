@@ -4,11 +4,16 @@ A collection of machine learning models implemented from various sources (primar
 # PyTorch Image Models
 - [Introduction](#introduction)
 - [Models](#models)
-- [Licenses](#licenses)
+- [License](#license)
 - [Citing](#citing)
 
 ## Introduction
 
-Py**T**orch **Im**age **M**odels (`timm`) is a collection of image models, layers, utilities, optimizers, schedulers, data-loaders / augmentations, and reference training / validation scripts that aim to pull together a wide variety of SOTA models with ability to reproduce ImageNet training results.
+"Welcome to **PyTorch-Models**, a Python library with a collection of machine learning models I implemented for as my personal data science and machine learning toolbox.
+It stands on the work of many others. I strive after acknowledging all source materials via proper citation (link to github, arXiv, etc).
 
-The work of many others is present here. I've tried to make sure all source material is acknowledged via links to github, arxiv papers, etc in the README, documentation, and code docstrings. Please let me know if I missed anything.
+## Models
+
+## Lecense
+
+The MIT License (MIT). Please see the license file for more information.
