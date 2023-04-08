@@ -1,12 +1,10 @@
-<p align="center"><img width="100%" src="ML/others/logo/torch_and_tf.svg" /></p>
-
+<p align="center"><img width="100%" src="docs/logo.png" /></p>
 --------------------------------------------------------------------------------
 
  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # PyTorch-Models
 A collection of machine learning models implemented from various sources (primarily arXiv papers).
-<p style="font-family:JetBrains Mono; font-weight:normal; letter-spacing: 2px; color:#FF5C19; font-size:140%; text-align:left;padding: 0px; border-bottom: 3px solid #FF5C19">Libraries</p>
 
 # PyTorch Image Models
 - [Introduction](#introduction)
