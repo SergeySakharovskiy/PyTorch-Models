@@ -6,6 +6,7 @@
 
 # PyTorch-Models
 A collection of machine learning models implemented from various sources (primarily arXiv papers).
+<p style="font-family:JetBrains Mono; font-weight:normal; letter-spacing: 2px; color:#FF5C19; font-size:140%; text-align:left;padding: 0px; border-bottom: 3px solid #FF5C19">Libraries</p>
 
 # PyTorch Image Models
 - [Introduction](#introduction)
