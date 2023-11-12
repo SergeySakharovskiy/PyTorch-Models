@@ -24,6 +24,6 @@ It stands on the work of many others. I strive after acknowledging all source ma
 
 Along with regular training, validation and inference schema, [PyTorch Lightning](https://lightning.ai) is to be used as well.
 
-## Lecense
+## License
 
 The MIT License (MIT). Please see the [license file](https://github.com/SergeySakharovskiy/PyTorch-Models/blob/main/LICENSE) for more information.
